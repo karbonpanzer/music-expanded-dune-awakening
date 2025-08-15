@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- ===== Ambient ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_001</defName>
+    <label>Spice Dreams</label>
+    <clipPath>MusicExpanded/DuneAwakening/Spice Dreams</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_002</defName>
+    <label>Sayyadina's Lament</label>
+    <clipPath>MusicExpanded/DuneAwakening/Sayyadina's Lament</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_003</defName>
+    <label>Remnants of Green</label>
+    <clipPath>MusicExpanded/DuneAwakening/Remnants of Green</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_004</defName>
+    <label>Prescience</label>
+    <clipPath>MusicExpanded/DuneAwakening/Prescience</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_005</defName>
+    <label>Mirages at Dawn</label>
+    <clipPath>MusicExpanded/DuneAwakening/Mirages at Dawn</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_006</defName>
+    <label>Echoes of the Lost</label>
+    <clipPath>MusicExpanded/DuneAwakening/Echoes of the Lost</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <!-- ===== Main Menu ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_007</defName>
+    <label>Awakening</label>
+    <clipPath>MusicExpanded/DuneAwakening/Awakening</clipPath>
+    <cue>MainMenu</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- ===== Credits ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_008</defName>
+    <label>Transcendence</label>
+    <clipPath>MusicExpanded/DuneAwakening/Transcendence</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- ===== BattleSmall ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_009</defName>
+    <label>Descent</label>
+    <clipPath>MusicExpanded/DuneAwakening/Descent</clipPath>
+    <cue>BattleSmall</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- ===== BattleMedium ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_010</defName>
+    <label>Dance of the Blade</label>
+    <clipPath>MusicExpanded/DuneAwakening/Dance of the Blade</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_011</defName>
+    <label>The Mind Killer</label>
+    <clipPath>MusicExpanded/DuneAwakening/The Mind Killer</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- ===== BattleLarge ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_012</defName>
+    <label>Crucible of Sand</label>
+    <clipPath>MusicExpanded/DuneAwakening/Crucible of Sand</clipPath>
+    <cue>BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_013</defName>
+    <label>Shadow's Womb</label>
+    <clipPath>MusicExpanded/DuneAwakening/Shadow's Womb</clipPath>
+    <cue>BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- ===== BattleLegendary ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_014</defName>
+    <label>The Prophecy</label>
+    <clipPath>MusicExpanded/DuneAwakening/The Prophecy</clipPath>
+    <cue>BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_015</defName>
+    <label>Breath of Shai-Hulud</label>
+    <clipPath>MusicExpanded/DuneAwakening/Breath of Shai-Hulud</clipPath>
+    <cue>BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- ===== Additional Ambient ===== -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_016</defName>
+    <label>Legacy of the Fremen</label>
+    <clipPath>MusicExpanded/DuneAwakening/Legacy of the Fremen</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_017</defName>
+    <label>Into Arrakeen</label>
+    <clipPath>MusicExpanded/DuneAwakening/Into Arrakeen</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_018</defName>
+    <label>Beneath Two Moons</label>
+    <clipPath>MusicExpanded/DuneAwakening/Beneath Two Moons</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_019</defName>
+    <label>Story Trailer</label>
+    <clipPath>MusicExpanded/DuneAwakening/Story Trailer</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_020</defName>
+    <label>Memories of Caladan</label>
+    <clipPath>MusicExpanded/DuneAwakening/Memories of Caladan</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_021</defName>
+    <label>Launch Trailer</label>
+    <clipPath>MusicExpanded/DuneAwakening/Launch Trailer</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_022</defName>
+    <label>Children of the Tube</label>
+    <clipPath>MusicExpanded/DuneAwakening/Children of the Tube</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_023</defName>
+    <label>Welcome to Arrakis</label>
+    <clipPath>MusicExpanded/DuneAwakening/Welcome to Arrakis</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_024</defName>
+    <label>Whispers in the Wind</label>
+    <clipPath>MusicExpanded/DuneAwakening/Whispers in the Wind</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_025</defName>
+    <label>When the Sun Is Low</label>
+    <clipPath>MusicExpanded/DuneAwakening/When the Sun Is Low</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_DA_026</defName>
+    <label>The Narrow Path</label>
+    <clipPath>MusicExpanded/DuneAwakening/The Narrow Path</clipPath>
+  </MusicExpanded.TrackDef>
+
+</Defs>

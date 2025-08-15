@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <MusicExpanded.ThemeDef>
+    <defName>ME_Dune_Awakening</defName>
+    <label>Music Expanded: Dune: Awakening</label>
+    <description>Music from Dune: Awakening arranged for the Music Expanded Framework.</description>
+    <iconPath>UI/Icons/DuneAwakening</iconPath>
+    <tracks>
+      <li>ME_DA_001</li>
+      <li>ME_DA_002</li>
+      <li>ME_DA_003</li>
+      <li>ME_DA_004</li>
+      <li>ME_DA_005</li>
+      <li>ME_DA_006</li>
+      <li>ME_DA_007</li>
+      <li>ME_DA_008</li>
+      <li>ME_DA_009</li>
+      <li>ME_DA_010</li>
+      <li>ME_DA_011</li>
+      <li>ME_DA_012</li>
+      <li>ME_DA_013</li>
+      <li>ME_DA_014</li>
+      <li>ME_DA_015</li>
+      <li>ME_DA_016</li>
+      <li>ME_DA_017</li>
+      <li>ME_DA_018</li>
+      <li>ME_DA_019</li>
+      <li>ME_DA_020</li>
+      <li>ME_DA_021</li>
+      <li>ME_DA_022</li>
+      <li>ME_DA_023</li>
+      <li>ME_DA_024</li>
+      <li>ME_DA_025</li>
+      <li>ME_DA_026</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+
+</Defs>
